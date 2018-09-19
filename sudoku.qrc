@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sample.txt</file>
+        <file>sudokusamples/sample.txt</file>
+    </qresource>
+</RCC>
